@@ -1,3 +1,9 @@
+# QUICK INTRO
+
+I forked this to change helper.rb to send extra params with the pagination links, so one could have more control over two instance vars that are paginated on the same page. I'll extend it to all options when I have time to breath.
+
+# EVERYTHING BELOW IS FROM: https://github.com/markmcconachie/foundation-will_paginate TKS!!!!!!!
+
 # Foundation::WillPaginate
 
 Integrates Zurb Foundation's [pagination styles](http://foundation.zurb.com/docs/navigation.php) with [will_paginate](https://github.com/mislav/will_paginate).
